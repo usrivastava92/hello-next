@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@types/node': 17.0.36
   '@types/react': 18.0.9
-  '@types/react-dom': 18.0.5
+  '@types/react-dom': 18.0.11
   eslint: 8.16.0
   eslint-config-next: 12.1.6
   next: 12.1.6
@@ -19,7 +19,7 @@ dependencies:
 devDependencies:
   '@types/node': 17.0.36
   '@types/react': 18.0.9
-  '@types/react-dom': 18.0.5
+  '@types/react-dom': 18.0.11
   eslint: 8.16.0
   eslint-config-next: 12.1.6_k6khgwrcmlpd2kpaxkviqw2zii
   typescript: 4.7.2
@@ -215,8 +215,8 @@ packages:
     resolution: {integrity: sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==}
     dev: true
 
-  /@types/react-dom/18.0.5:
-    resolution: {integrity: sha512-OWPWTUrY/NIrjsAPkAk1wW9LZeIjSvkXRhclsFO8CZcZGCOg2G0YZy4ft+rOyYxy8B7ui5iZzi9OkDebZ7/QSA==}
+  /@types/react-dom/18.0.11:
+    resolution: {integrity: sha512-O38bPbI2CWtgw/OoQoY+BRelw7uysmXbWvw3nLWO21H1HSh+GOlqPuXshJfjmpNlKiiSDG9cc1JZAaMmVdcTlw==}
     dependencies:
       '@types/react': 18.0.9
     dev: true
